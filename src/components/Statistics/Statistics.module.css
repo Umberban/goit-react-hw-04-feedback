@@ -1,0 +1,25 @@
+.mainReview{
+    display: flex;
+    gap:20px;
+    align-items: center;
+    justify-content: center;
+}
+.countReview{
+    display: block;
+    border: 0.5px solid black;
+    width: 130px;
+    text-align: center;
+    border-radius: 50px;
+    font-size:20px;
+}
+.calculatedInfo{
+    display: flex;
+    gap:20px;
+    align-items: center;
+    justify-content: center;
+}
+.title{
+   text-align: center;
+   margin-top: 50px;
+   font-size: 30px; 
+}
